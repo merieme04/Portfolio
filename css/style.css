@@ -688,6 +688,8 @@ ul.timeline{
 .timeline li .line-title{
     font-size: 16px;
     line-height: 6px;
+    line-height: 22px;
+
 }
 
 .timeline li:first-child{
